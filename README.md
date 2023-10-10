@@ -23,4 +23,4 @@ https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-i
 # LINKS:
 GitHub:https://github.com/marcos1198/TP_ApiRestConPaginacion.git
 Render:https://conpaginacion.onrender.com
-
+Codigo de prueba de postman:https://github.com/marcos1198/TP_ApiRestConPaginacion/blob/main/Persona%20Api%20Request.postmanConPaginacion_collection.json
